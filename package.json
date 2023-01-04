@@ -1,5 +1,5 @@
 {
-  "name": "@vetrax/wdio-timeline-reporter",
+  "name": "@andrius-vet/wdio-timeline-reporter",
   "version": "5.1.5",
   "description": "A WebdriverIO reporter. Creates a simple HTML report after test runs",
   "main": "build/timeline-reporter.js",
